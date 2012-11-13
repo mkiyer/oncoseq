@@ -1,5 +1,4 @@
-#summary One-sentence summary of this page.
-Features that are in the process to be add it to main source code.
+#Features in the process of being add it to main source code.
 = Introduction =
 
 This page list the features that we are intending to add in order to have a more robust version of oncoseq.
