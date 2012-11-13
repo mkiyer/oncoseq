@@ -1,4 +1,4 @@
-#Features in the process of being add it to main source code.
+#summary Features in the process of being add it to main source code.
 = Introduction =
 
 This page list the features that we are intending to add in order to have a more robust version of oncoseq.
